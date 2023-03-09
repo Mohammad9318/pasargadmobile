@@ -1,1 +1,1 @@
-vless://8f6fb842-32f2-47dd-9d17-16fe69011947@nm.studyborna.online:19413?type=ws&security=none&path=%2F19413&host=Bmi.ir#mansor
+vless://116a7a22-1b7f-4644-9655-cba2cb6478cc@nm.studyborna.online:39749?type=ws&security=none&path=%2F&host=Bmi.ir#S3
