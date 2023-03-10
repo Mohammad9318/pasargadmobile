@@ -1,1 +1,1 @@
-vless://8f6fb842-32f2-47dd-9d17-16fe69011947@nm.studyborna.online:19413?type=ws&security=none&path=%2F19413&host=Bmi.ir#mansor
+https://github.com/Mohammad9318/vpnlink#:~:text=remote%20add%20origin-,https%3A//github.com/Mohammad9318/vpnlink.git,-git%20push%20%2Du
